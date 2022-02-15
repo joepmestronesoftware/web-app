@@ -1,0 +1,124 @@
+# Translation of Themes - Oasis in Dutch
+# This file is distributed under the same license as the Themes - Oasis package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-15 19:52:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Oasis\n"
+
+#: inc/FrontPageHero.php:35
+msgid "Make texts white"
+msgstr "Maak alle tekst wit"
+
+#: template-parts/main/post.php:23
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} reacties"
+
+#: template-parts/main/post.php:22
+msgid "One response"
+msgstr "Eén reactie"
+
+#: template-parts/main/post.php:21
+msgid "No responses yet"
+msgstr "Nog geen reacties"
+
+#: template-parts/main/404.php:23
+msgid "Go to Homepage!"
+msgstr "Ga naar de homepage!"
+
+#: template-parts/layout-wrapper-content/tags-container-1.php:9
+msgid "Tags:"
+msgstr "Tags:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "Next post"
+msgstr "Volgend bericht"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "Vorig bericht:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "Volgend bericht:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "Previous post"
+msgstr "Vorig bericht"
+
+#: template-parts/layout-wrapper-content/categories-container-1.php:9
+msgid "Categories:"
+msgstr "Categorieën:"
+
+#: template-parts/layout-wrapper-content/navigation-container-3.php:11
+#: template-parts/layout-wrapper-content/navigation-container-3.php:37
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+msgid "Back"
+msgstr "Terug"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "Vorige"
+
+#: template-parts/layout-wrapper-content/navigation-container-3.php:10
+#: template-parts/layout-wrapper-content/navigation-container-3.php:36
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+msgid "Next"
+msgstr "Volgende"
+
+#: template-parts/main/archive_item_template.php:75
+#: template-parts/layout-wrapper-content/categories-container-2.php:63
+msgid "read more"
+msgstr "lees meer"
+
+#: template-parts/main/archive_item_template.php:47
+#: template-parts/main/item_template.php:41
+#: template-parts/layout-wrapper-content/categories-container-2.php:43
+msgid "at"
+msgstr "om"
+
+#: template-parts/main/archive_item_template.php:38
+#: template-parts/main/item_template.php:32
+#: template-parts/layout-wrapper-content/categories-container-2.php:34
+msgid "on"
+msgstr "on"
+
+#: template-parts/main/archive_item_template.php:29
+#: template-parts/main/item_template.php:23
+#: template-parts/layout-wrapper-content/categories-container-2.php:25
+msgid "by"
+msgstr "door"
+
+#: functions.php:60
+msgid "%s is easy to learn and master, but you can always check out our documentation to learn about some features you might have missed."
+msgstr "%s is gemakkelijk te leren en te beheersen, maar je kan altijd onze documentatie raadplegen om de functies te bekijken die je misschien hebt gemist."
+
+#: functions.php:51
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "De %1$s plugin voegt 'drag & drop'-functionaliteit toe en heel wat andere functies aan het %2$s thema."
+
+#: functions.php:49
+msgid "%s Settings"
+msgstr "%s-instellingen"
+
+#: admin/admin-notice.php:71
+msgid "This action will also install the Colibri Page Builder plugin."
+msgstr "Deze actie zal ook de Colibri page builder plugin installeren."
+
+#: admin/admin-notice.php:59
+msgid "Maybe Later"
+msgstr "Misschien later"
+
+#: admin/admin-notice.php:55
+msgid "Install the Oasis homepage"
+msgstr "Installeer de Oasis homepage"
+
+#: admin/admin-notice.php:50
+msgid "Would you like to install the pre-designed Oasis homepage?"
+msgstr "Wil je de voorontworpen Oasis homepage installeren?"

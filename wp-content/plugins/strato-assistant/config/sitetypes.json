@@ -1,0 +1,77 @@
+{
+  "sitetypes": {
+    "business": {
+      "headline": "business_headline",
+      "description": "business_description",
+      "themes": [
+        "radiate",
+        "vantage",
+        "customizr",
+        "zerif-lite",
+        "corporate-plus",
+        "extension",
+        "businesstar"
+      ],
+      "homepage": "static"
+    },
+    "blog": {
+      "headline": "blog_headline",
+      "description": "blog_description",
+      "themes": [
+        "hemingway",
+        "islemag",
+        "elara",
+        "journal-blog",
+        "masonic",
+        "vivacious-magazine",
+        "news-portal",
+        "cenote",
+        "yosemite-lite",
+        "colormag",
+        "refresh-blog"
+      ],
+      "homepage": "posts"
+    },
+    "eshop": {
+      "headline": "eshop_headline",
+      "description": "eshop_description",
+      "themes": [
+        "exoplanet",
+        "shop-isle",
+        "shophistic-lite",
+        "vogue",
+        "llorix-one-lite",
+        "ecommerce-saga",
+        "athena",
+        "trusted",
+        "easy-store"
+      ],
+      "homepage": "static"
+    },
+    "gallery": {
+      "headline": "gallery_headline",
+      "description": "gallery_description",
+      "themes": [
+        "photo-perfect",
+        "hitchcock",
+        "acmephoto",
+        "receptar",
+        "moesia",
+        "portfolio-lite",
+        "fotografie",
+        "full-frame",
+        "lens",
+        "fukasawa"
+      ],
+      "homepage": "posts"
+    },
+    "personal": {
+      "headline": "personal_headline",
+      "description": "personal_description",
+      "themes": [
+        "twentytwenty"
+      ],
+      "homepage": "static"
+    }
+  }
+}

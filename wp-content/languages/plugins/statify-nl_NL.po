@@ -1,0 +1,218 @@
+# Translation of Plugins - Statify - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Statify - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-05 08:12:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Statify - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+#: views/widget-back.php:49
+msgid "https://statify.pluginkollektiv.org/"
+msgstr "https://statify.pluginkollektiv.org/"
+
+#: inc/class-statify-settings.php:251
+msgid "Enabling this option excludes any views with referrers listed in the list of disallowed comment keys."
+msgstr "Als je deze optie inschakelt, worden weergaven met verwijzingen in de lijst met niet-toegestane reactie toetsen uitgesloten."
+
+#: inc/class-statify-settings.php:147
+msgid "Disable the nonce check if the caching time is longer than the nonce time or you miss views due to 403 Forbidden errors."
+msgstr "Schakel de nonce-controle uit als de caching-tijd langer is dan de nonce-tijd of als je weergaven mist vanwege 403-verboden fouten."
+
+#: inc/class-statify-settings.php:146
+msgid "JavaScript based tracking is strongly recommended if caching or AMP is in use."
+msgstr "Op JavaScript gebaseerde tracking wordt sterk aanbevolen als caching of AMP in gebruik is."
+
+#: inc/class-statify-settings.php:143
+msgid "JavaScript based tracking without nonce check"
+msgstr "Op JavaScript gebaseerde tracking zonder nonce check"
+
+#: inc/class-statify-settings.php:141
+msgid "JavaScript based tracking with nonce check"
+msgstr "Op JavaScript gebaseerde tracking met nonce check"
+
+#: inc/class-statify-settings.php:139
+msgid "Default tracking"
+msgstr "Standaard tracking"
+
+#: inc/class-statify-settings.php:102
+msgid "Disallowed referrers"
+msgstr "Niet toegestane verwijzers"
+
+#: inc/class-statify-settings.php:46
+msgid "Tracking method"
+msgstr "Trackingmethode"
+
+#: views/widget-front.php:116
+msgid "Refresh"
+msgstr "Ververs"
+
+#: inc/class-statify-settings.php:359
+msgid "Statify Settings"
+msgstr "Statify instellingen"
+
+#: inc/class-statify-settings.php:264
+msgid "Enabling this option excludes any views of logged-in users from tracking."
+msgstr "Als je deze optie inschakelt, worden alle weergaven van ingelogde gebruikers uitgesloten van tracking."
+
+#: inc/class-statify-settings.php:263
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/class-statify-settings.php:237
+msgid "The following options define cases in which a view will <strong>not</strong> be tracked."
+msgstr "Met de volgende opties worden gevallen gedefinieerd waarin een weergave <strong>niet</strong> wordt bijgehouden."
+
+#: inc/class-statify-settings.php:175
+msgid "The following options affect the admin dashboard widget."
+msgstr "De volgende opties zijn van invloed op het dashboard widget voor beheerders."
+
+#: inc/class-statify-settings.php:213 inc/class-statify-settings.php:225
+#: inc/class-statify-settings.php:250
+msgid "No"
+msgstr "Nee"
+
+#: inc/class-statify-settings.php:127 inc/class-statify-settings.php:189
+#: inc/class-statify-settings.php:201 inc/class-statify-settings.php:213
+#: inc/class-statify-settings.php:225 inc/class-statify-settings.php:250
+#: inc/class-statify-settings.php:263
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/class-statify-settings.php:110
+msgid "Logged in users"
+msgstr "Ingelogde deelnemers"
+
+#: inc/class-statify-settings.php:96
+msgid "Skip tracking for ..."
+msgstr "Skip tracking voor ..."
+
+#: inc/class-statify-settings.php:78
+msgid "Top lists only for today"
+msgstr "Toplijsten alleen voor vandaag"
+
+#: inc/class-statify-settings.php:56
+msgid "Dashboard Widget"
+msgstr "Dashboard widget"
+
+#: inc/class-statify-settings.php:32
+msgid "Global settings"
+msgstr "Algemene Instellingen"
+
+#: views/widget-front.php:105
+msgid "since"
+msgstr "sinds"
+
+#: views/widget-front.php:97
+msgid "today"
+msgstr "vandaag"
+
+#: views/widget-front.php:88
+msgid "Totals"
+msgstr "Totalen"
+
+#: inc/class-statify-backend.php:43 inc/class-statify-settings.php:370
+#: views/widget-back.php:51
+msgid "https://wordpress.org/support/plugin/statify"
+msgstr "https://wordpress.org/support/plugin/statify"
+
+#: inc/class-statify-settings.php:86 views/widget-back.php:43
+msgid "Show totals"
+msgstr "Toon totalen"
+
+#: inc/class-statify-settings.php:62 views/widget-back.php:30
+msgid "Period of data display in Dashboard"
+msgstr "Periode van gegevensweergave in dashboard"
+
+#: views/widget-back.php:24
+msgid "Widget Settings"
+msgstr "Widget instellingen"
+
+#: views/widget-back.php:18
+msgid "All Settings"
+msgstr "Alle instellingen"
+
+#: views/widget-back.php:16
+msgid "Open full settings page"
+msgstr "Pagina volledige instellingen openen"
+
+#: inc/class-statify-settings.php:368 views/widget-back.php:49
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: inc/class-statify-settings.php:368
+msgid "https://wordpress.org/plugins/statify/"
+msgstr "https://wordpress.org/plugins/statify/"
+
+#: inc/class-statify-backend.php:43 inc/class-statify-settings.php:370
+#: views/widget-back.php:51
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: inc/class-statify-backend.php:42 inc/class-statify-settings.php:369
+#: views/widget-back.php:50
+msgid "Donate"
+msgstr "Doneer"
+
+#. Author URI of the plugin
+msgid "https://pluginkollektiv.org/"
+msgstr "https://pluginkollektiv.org/"
+
+#. Author of the plugin
+msgid "pluginkollektiv"
+msgstr "pluginkollektiv"
+
+#. Description of the plugin
+msgid "Compact, easy-to-use and privacy-compliant stats plugin for WordPress."
+msgstr "Compacte, gebruiksvriendelijke en privacy-compatibele statistieken plugin voor WordPress."
+
+#. Plugin Name of the plugin
+#: inc/class-statify-settings.php:342 inc/class-statify-settings.php:343
+msgid "Statify"
+msgstr "Statify"
+
+#: views/widget-front.php:38
+msgid "Top referers"
+msgstr "Top verwijzers"
+
+#: views/widget-front.php:63
+msgid "Top targets"
+msgstr "Topdoelen"
+
+#: views/widget-front.php:20
+msgid "No data available."
+msgstr "Geen gegevens beschikbaar."
+
+#: views/widget-back.php:39
+msgid "Entries in top lists only for today"
+msgstr "Vermeldingen in toplijsten alleen voor vandaag"
+
+#: inc/class-statify-settings.php:70 views/widget-back.php:35
+msgid "Number of entries in top lists"
+msgstr "Aantal vermeldingen in de top lijsten"
+
+#: inc/class-statify-settings.php:38
+msgid "Period of data saving"
+msgstr "Periode van gegevensbesparing"
+
+#: inc/class-statify-settings.php:126 inc/class-statify-settings.php:188
+#: views/widget-back.php:29
+msgid "days"
+msgstr "dagen"
+
+#: inc/class-statify-dashboard.php:147
+msgid "Pageviews"
+msgstr "Paginaweergaves"
+
+#: inc/class-statify-dashboard.php:146
+msgid "Pageview"
+msgstr "Paginaweergave"
+
+#: inc/class-statify-backend.php:76
+msgid "Settings"
+msgstr "Instellingen"
